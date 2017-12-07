@@ -1,0 +1,14 @@
+header {
+    font-family: 'Cinzel' !important;
+}
+
+h1,h2 {
+    font-family: 'Cinzel' !important;
+}
+.nav-item {
+    margin-right: 50px;
+}
+
+.jumbotron {
+    padding: 6rem 2rem 1rem !important;
+}
