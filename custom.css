@@ -12,3 +12,7 @@ h1,h2 {
 .jumbotron {
     padding: 6rem 2rem 1rem !important;
 }
+
+p {
+    font-family: 'Open Sans';
+}
